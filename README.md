@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me:<br><br>🔭 I’m currently working on  <br>- Strengthening my Data Structures & Algorithms (DSA)  <br>- Building full-stack projects using MERN stack  <br><br>👯 I’m looking to collaborate on  <br>- Open source MERN stack projects  <br>- Beginner-friendly web development projects  <br><br>🤝 I’m looking for help with  <br>- Advanced DSA problems  <br>- Backend optimization & system design  <br><br>🌱 I’m currently learning  <br>- MERN Stack (MongoDB, Express, React, Node.js)  <br>- Improving problem-solving using Java  <br><br>💬 Ask me about  <br>- Core Java  <br>- DSA (Arrays, Two Pointer, Prefix Sum)  <br>- Basics of Web Development  <br><br>⚡ Fun fact  <br>- I solve coding problems daily and love building projects 🚀
+🔭 I’m currently working on  <br>- DSA for product-based company placements  <br>- Developing full-stack applications using MERN  <br><br>🌱 I’m currently learning  <br>- Advanced Java & DSA  <br>- Backend development (Node.js & Express)  <br><br>👯 I’m looking to collaborate on  <br>- Real-world MERN projects  <br>- Open source contributions  <br><br>💬 Ask me about  <br>- Core Java & OOPs  <br>- DSA problem-solving strategies  <br><br>⚡ Fun fact  <br>- Consistently practicing DSA and sharing my learning journey 🚀
 
 
 ## 🌐 Socials:
